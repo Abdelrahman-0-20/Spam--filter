@@ -1,1 +1,1 @@
-# Spam--filter
+# Spam-filter
